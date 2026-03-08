@@ -2,7 +2,8 @@
 
 
 
-![Library_project](https://github.com/najirh/Library-System-Management---P2/blob/main/library.jpg)  
+<img width="1536" height="1024" alt="THUMBNAIL" src="https://github.com/user-attachments/assets/1e1d9017-1455-4ef4-9cc4-bdb58bedd20e" />
+
 
                                               Objectives
 
