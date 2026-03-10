@@ -218,10 +218,13 @@ WHERE rs.return_id IS NULL;
 This project demonstrates the application of SQL skills in creating and managing a library management system. It includes database setup, data manipulation, and advanced querying, providing a solid foundation for data management and analysis.
 
 
-                                                                Author
+                                                                LINK 
 
-This project showcases SQL skills essential for database management and analysis. 
-- LinkedIn: www.linkedin.com/in/waniumer-analytics 
+
+
+1. LinkedIn: www.linkedin.com/in/waniumer-analytics .
+
+2. PORTFOLIO:- https://codebasics.io/portfolio/WANI-UMER
 
 
 
